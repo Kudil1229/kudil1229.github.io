@@ -146,13 +146,13 @@ body {
 }
 
 .about,
-.menu,
+.menukami,
 .contact {
   padding: 8rem 7% 1.4rem;
 }
 
 .about h2,
-.menu h2,
+.menukami h2,
 .contact h2 {
   text-align: center;
   font-size: 2.6rem;
@@ -160,7 +160,7 @@ body {
 }
 
 .about h2 span,
-.menu h2 span,
+.menukami h2 span,
 .contact h2 span {
   color: var(--primary);
 }
@@ -194,12 +194,12 @@ body {
   line-height: 1.6;
 }
 
-.menu h2,
+.menukami h2,
 .contact h2 {
   margin-bottom: 0.5rem;
 }
 
-.menu p,
+.menukami p,
 .contact p {
   text-align: center;
   max-width: 30rem;
@@ -209,23 +209,23 @@ body {
   line-height: 1.6;
 }
 
-.menu .row {
+.menukami .row {
   display: flex;
   flex-wrap: wrap;
   margin-top: 5rem;
   justify-content: center;
 }
 
-.menu .row .menu-card {
+.menukami .row .menu-card {
   text-align: center;
 }
 
-.menu .row .menu-card img {
+.menukami .row .menu-card img {
   border-radius: 50%;
   width: 80%;
 }
 
-.menu .row .menu-card .menu-card-title {
+.menukami .row .menu-card .menu-card-title {
   margin-top: 1rem auto 0.5rem;
 }
 
@@ -375,7 +375,7 @@ footer .credit a {
     font-size: 1.6rem;
   }
 
-  .menu p {
+  .menukami p {
     font-size: 1.4rem;
   }
 
